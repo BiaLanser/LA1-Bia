@@ -1,0 +1,5 @@
+print("Hello World!")
+print("Bia")
+print("Linha 1", end="")
+print("Linha 2")
+print("Hoje é Sexta \nFeira")
